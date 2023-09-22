@@ -31,5 +31,7 @@
     max-width: 1600px;
     padding-left: 160px;
     padding-right: 160px;
+    display: flex;
+    align-items: center;
   }
 }
