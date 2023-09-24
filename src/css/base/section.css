@@ -16,4 +16,9 @@
     padding-bottom: 24px;
     background-color: var(--dark-blue1);
   }
+
+  .hero-section {
+    padding-bottom: 61px;
+    background-color: var(--dark-blue1);
+  }
 }
