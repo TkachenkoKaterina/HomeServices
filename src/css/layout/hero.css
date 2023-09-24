@@ -1,5 +1,168 @@
-.hero-box {
-  max-width: 412px;
-  border-radius: 24px;
-  overflow: hidden;
+/* ================================== Desktop Style ==================================*/
+
+@media screen and (min-width: 1920px) {
+  .hero-box {
+    max-width: 412px;
+    border-radius: 24px;
+    overflow: hidden;
+  }
+
+  .hero-img-part {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  .hero-img-part--right {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+
+  .hero-center-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 162px;
+  }
+
+  .hero-services-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+  }
+
+  .hero-services-item {
+    display: flex;
+    gap: 24px;
+  }
+  .hero-services-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--grey3);
+  }
+
+  .hero-services-text--circle::before,
+  .hero-services-text--circle::after {
+    content: '';
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: var(--grey3);
+  }
+
+  .hero-title {
+    max-width: 673px;
+    margin: 24px 0;
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 1.19;
+    text-align: center;
+    color: var(--white);
+  }
+
+  .hero-offers-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 41px;
+  }
+
+  .hero-offers-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .hero-offers-text {
+    font-size: 20px;
+    line-height: 1.6;
+    color: var(--sky-blue);
+  }
+
+  .hero-btn {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 233px;
+    padding: 16px 72px 16px 24px;
+    margin-top: 48px;
+    margin-bottom: 152px;
+    border-radius: 60px;
+    border: none;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.33;
+    text-align: center;
+    color: var(--white);
+    background-color: var(--sky-blue);
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .hero-btn-icon {
+    position: absolute;
+    top: 50%;
+    right: 8px;
+    transform: translateY(-50%);
+    /* margin-left: 16px; */
+    fill: var(--sky-blue);
+    padding: 12px;
+    background-color: var(--white);
+    border-radius: 50%;
+    border: none;
+    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .hero-btn:hover {
+    background-color: var(--dark-blue2);
+  }
+
+  .hero-btn:hover .hero-btn-icon {
+    fill: var(--dark-blue2);
+  }
+
+  .hero-advantages-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+  }
+
+  .hero-advantages-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .hero-advantages-box {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: var(--dark-blue2);
+  }
+
+  .hero-advantages-icon {
+    fill: var(--white);
+  }
+
+  .hero-advantages-text {
+    display: inline-block;
+    font-weight: 600;
+    line-height: 1.33;
+    max-width: 125px;
+    color: var(--white);
+  }
 }

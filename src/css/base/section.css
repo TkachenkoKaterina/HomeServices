@@ -18,6 +18,7 @@
   }
 
   .hero-section {
+    position: relative;
     padding-bottom: 61px;
     background-color: var(--dark-blue1);
   }

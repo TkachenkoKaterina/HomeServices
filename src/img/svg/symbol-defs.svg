@@ -1,23 +1,10 @@
 <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<symbol id="icon-Ic_24-Calendar" viewBox="0 0 32 32">
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667" d="M25.341 5.335h-18.672c-1.473 0-2.667 1.194-2.667 2.667v0 18.672c0 1.473 1.194 2.667 2.667 2.667v0h18.672c1.473 0 2.667-1.194 2.667-2.667v0-18.672c0-1.473-1.194-2.667-2.667-2.667v0z"></path>
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667" d="M20.006 18.672l-4.168 5.335-2.501-2.51M21.34 2.667v5.335M10.67 2.667v5.335M4.001 13.337h24.007"></path>
+<symbol id="icon-Decoration-left" viewBox="0 0 341 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M308.565 4.178c-3.104-2.694-7.076-4.178-11.187-4.178h-299.157v32h342.4l-32.057-27.823z"></path>
 </symbol>
-<symbol id="icon-Ic_24-Clock" viewBox="0 0 32 32">
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667" d="M16.005 29.342c7.366 0 13.337-5.971 13.337-13.337s-5.971-13.337-13.337-13.337-13.337 5.971-13.337 13.337 5.971 13.337 13.337 13.337z"></path>
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667" d="M16.005 8.002v8.002l5.335 2.667"></path>
-</symbol>
-<symbol id="icon-Ic_24-Guarantee" viewBox="0 0 32 32">
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.6667" d="M14.104 3.929c0.484-0.491 1.157-0.796 1.901-0.796s1.416 0.304 1.9 0.795l0 0 1.391 1.414c0.484 0.491 1.156 0.795 1.9 0.795 0.007 0 0.015-0 0.022-0h-0.001l1.983-0.015c0.006-0 0.012-0 0.019-0 1.473 0 2.667 1.194 2.667 2.667 0 0.007-0 0.013-0 0.020v-0.001l-0.013 1.983c-0 0.006-0 0.013-0 0.021 0 0.743 0.304 1.416 0.795 1.899l0 0 1.412 1.391c0.491 0.484 0.796 1.157 0.796 1.901s-0.304 1.416-0.795 1.9l-1.414 1.391c-0.491 0.484-0.795 1.156-0.795 1.9 0 0.007 0 0.015 0 0.022v-0.001l0.015 1.983c0 0.006 0 0.012 0 0.019 0 1.473-1.194 2.667-2.667 2.667-0.007 0-0.013-0-0.020-0h0.001l-1.983-0.013c-0.006-0-0.013-0-0.021-0-0.743 0-1.416 0.304-1.899 0.795l-0 0-1.391 1.412c-0.484 0.491-1.157 0.796-1.901 0.796s-1.416-0.304-1.9-0.795l-0-0-1.391-1.414c-0.484-0.491-1.156-0.795-1.9-0.795-0.007 0-0.015 0-0.022 0h0.001l-1.983 0.015c-0.006 0-0.012 0-0.019 0-1.473 0-2.667-1.194-2.667-2.667 0-0.007 0-0.013 0-0.020v0.001l0.013-1.983c0-0.006 0-0.013 0-0.021 0-0.743-0.304-1.416-0.795-1.899l-0-0-1.412-1.391c-0.491-0.484-0.796-1.157-0.796-1.901s0.304-1.416 0.795-1.9l1.414-1.391c0.491-0.484 0.795-1.156 0.795-1.9 0-0.007-0-0.015-0-0.022v0.001l-0.016-1.983c-0-0.006-0-0.012-0-0.019 0-1.473 1.194-2.667 2.667-2.667 0.007 0 0.013 0 0.020 0h-0.001l1.983 0.013c0.006 0 0.013 0 0.021 0 0.743 0 1.416-0.304 1.899-0.795l0-0 1.391-1.412z"></path>
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667" d="M21.34 13.337l-5.835 5.335-3.501-2.51"></path>
-</symbol>
-<symbol id="icon-Ic_24-Map-pin" viewBox="0 0 32 32">
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667" d="M28.008 13.337c0 6.833-6.429 12.95-9.876 15.741-0.574 0.474-1.317 0.762-2.127 0.762s-1.554-0.288-2.133-0.767l0.006 0.005c-3.448-2.791-9.876-8.909-9.876-15.741 0-6.629 5.374-12.003 12.003-12.003s12.003 5.374 12.003 12.003v0z"></path>
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2.6667" d="M16.005 17.338c2.21 0 4.001-1.791 4.001-4.001s-1.791-4.001-4.001-4.001v0c-2.21 0-4.001 1.791-4.001 4.001s1.791 4.001 4.001 4.001v0z"></path>
-</symbol>
-<symbol id="icon-IC_phone" viewBox="0 0 33 32">
-<path d="M30 22.565v4c0 0.003 0 0.007 0 0.011 0 1.473-1.194 2.667-2.667 2.667-0.084 0-0.168-0.004-0.251-0.012l0.011 0.001c-4.327-0.482-8.236-1.943-11.607-4.155l0.1 0.062c-3.242-2.081-5.919-4.758-7.938-7.897l-0.062-0.103c-2.158-3.286-3.62-7.214-4.083-11.442l-0.010-0.118c-0.007-0.072-0.011-0.155-0.011-0.24 0-1.472 1.192-2.665 2.664-2.667h4c0.008-0 0.017-0 0.026-0 1.341 0 2.451 0.99 2.639 2.279l0.002 0.014c0.169 1.28 0.481 2.537 0.933 3.747 0.108 0.279 0.171 0.601 0.171 0.938 0 0.731-0.294 1.394-0.771 1.875l-1.693 1.693c1.932 3.356 4.644 6.068 7.897 7.945l0.103 0.055 1.693-1.693c0.482-0.476 1.144-0.771 1.875-0.771 0.337 0 0.66 0.063 0.957 0.177l-0.018-0.006c1.209 0.452 2.467 0.765 3.747 0.933 1.304 0.189 2.294 1.299 2.294 2.641 0 0.023-0 0.046-0.001 0.070l0-0.003z"></path>
+<symbol id="icon-Decoration-right" viewBox="0 0 344 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M32.057 4.177c3.104-2.694 7.076-4.178 11.187-4.178l301.645 0v32h-344.889l32.057-27.823z"></path>
 </symbol>
 </defs>
 </svg>
